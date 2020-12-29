@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.ContactScreen{
+    background-color: #D55FE9;
+    padding: 30px 30px 30px 30px;
+}
+.contactHeading{
+    /* border: 2px solid black; */
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Montserrat';
+    text-transform: uppercase;
+}
+.detailContainer{
+    padding: 20px 20px 20px 20px;
+    /* border: 2px solid black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.detail{
+    padding: 10px 10px 10px 10px;
+}
+.socialLogo{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

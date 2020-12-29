@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    padding: 10px 10px 10px 10px;
+    margin: 0 40px 0 40px;
+}
+.logoIcon{
+    height: 50px;
+    width: 45px;
+}

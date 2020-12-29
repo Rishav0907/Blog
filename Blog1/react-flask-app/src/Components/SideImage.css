@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.SideImageText{
+    margin-top: 40px;
+    display: flex;
+    padding: 20px 20px 20px 20px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.imageContainer{
+    /* border: 2px solid black; */
+    height: 300px;
+    margin: 10px 10px 10px 10px;
+    width: 330px;
+}
+.sideimage{
+    height: 250px;
+}
+.subHeading{
+    padding: 0 0 20px 0;
+    font-family: 'Lato';
+}
+.textContainer{
+    margin: 10px 10px 10px 10px;
+    /* border: 2px solid black; */
+    width: 330px;
+}
